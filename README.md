@@ -32,12 +32,3 @@ Recording Video
 1. Click the Capture Button to take a snapshot of the video stream.
 2. The captured image is downloaded as Image.jpeg.
 
-
-## File Structure
-screen-recorder/
-│
-├── index.html       # Main HTML file
-├── style.css        # Styling for the application
-├── index.js         # JavaScript for recording and capturing functionality
-└── README.md        # Project documentation
-
